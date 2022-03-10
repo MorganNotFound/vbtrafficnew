@@ -78,4 +78,4 @@ form1.BackColor = vbBlack
 同理得Timer2，3激活时，调整控件属性，设定初始值，并同时打开下一Timer，使其进入循环
 其实这个程序很简单，类似于上一项程序作业，真正难的还在后面，希望你能理解，谢谢（^~^）！
 ----------------------------------------------------------
-本文来自https:www.github.com/MorganNotFound/vbtrafficnew
+本文来自https://www.github.com/MorganNotFound/vbtrafficnew
