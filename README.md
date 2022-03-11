@@ -55,7 +55,7 @@ Timer1.Enabled = False
 诶诶诶，别急别急！   
 既然你已经下载了我的文件，我一定要把你教会嘛不是吗   
 首先，打开VisualBasic6.0，创建一个标准exe   
-然后把窗口调到适当大小，插入一个shape，一个label与三个timer控件（尽量把shape和label调的差不多大，挨着放在一起)
+然后把窗口调到适当大小，插入一个shape，一个label与三个timer控件（尽量把shape和label调的差不多大，挨着放在一起)   
 ![](http://m.qpic.cn/psc?/cfc1fd56-f474-498f-adcb-b6fd8951402d/45NBuzDIW489QBoVep5mcSm9OTgUHy.wwbFwVM1Qzv5VMwo3juBSCJyL22bKxxrKWPkXrHyU*xhDAMCjX.7yjN392OgjW0uZk5dbe8Ag0dA!/b&bo=RgH*AAAAAAADF4o!&rf=viewer_4)   
 这里有几个要更改的属性，注意一下:   
 `shape1`的名称改成`light`   
