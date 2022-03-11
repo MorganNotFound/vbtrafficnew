@@ -51,6 +51,23 @@ light.FillColor = vbYellow
 y = y - 1
 If y = 0 Then
 Timer1.Enabled = False
+Timer2.Enabled = False
+Timer3.Enabled = True
+r = 10
+End If
+End Sub
+Private Sub Timer3_timer()
+Label1.Caption = r
+Label1.ForeColor = vbRed
+light.FillColor = vbRed
+r = r - 1
+If r = 0 Then
+Timer1.Enabled = True
+Timer2.Enabled = False
+Timer3.Enabled = False
+g = 10
+End If
+End Sub
 ```
 诶诶诶，别急别急！   
 既然你已经下载了我的文件，我一定要把你教会嘛不是吗   
