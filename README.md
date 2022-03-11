@@ -61,6 +61,7 @@ Timer1.Enabled = False
 `shape1`的名称改成`light`   
 剩余的内容你也可以在`form_load()`里面设置（有些我已设置）
 ```
+Light.shape = 3   'circle
 Light.BackStyle = 1
 Light.shape = 3
 Label1.Alignment = 2
